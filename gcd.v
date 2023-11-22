@@ -1,13 +1,4 @@
-//-----------------------------------------------------------------------------
-// GcdUnit
-//-----------------------------------------------------------------------------
-//
-// Originally Generated from PyMTL with a few modifications to make it more
-// friendly to OpenROAD tools
-//
-// dump-vcd: False
-// verilator-xinit: zeros
-//module GcdUnit
+
 module gcd
 (
   input  wire clk,
